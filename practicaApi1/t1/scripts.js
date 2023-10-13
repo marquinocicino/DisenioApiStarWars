@@ -23,6 +23,6 @@ async function obtener_personaje(id) {
     }
 }
 
-for (let i=1; i<=100; i++) {
+for (let i=1; i<=800; i++) {
     obtener_personaje(i)
 }
